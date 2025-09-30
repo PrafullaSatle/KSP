@@ -1,0 +1,3 @@
+- [x] Modify speakResponse function in ai-chat.tsx to use Google Translate TTS with fetch for Malayalam audio playback
+- [x] Update stopSpeaking function to handle Audio objects for stopping Malayalam speech
+- [ ] Test the app to ensure Malayalam voice output works with fetched audio
