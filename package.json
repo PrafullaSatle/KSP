@@ -1,6 +1,7 @@
 {
       "name": "Farmer Assistant App",
       "version": "0.1.0",
+      "homepage": "https://github.com/PrafullaSatle/KSP.git",
       "private": true,
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
